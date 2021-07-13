@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\59770\Desktop\cc\7.9\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(44,35): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.9\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(22,7): warning C4101: “str_sql”: 未引用的局部变量
+  ConsoleApplication1.vcxproj -> C:\Users\59770\Desktop\cc\7.9\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

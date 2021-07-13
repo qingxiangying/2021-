@@ -1,0 +1,15 @@
+﻿  源.cpp
+C:\Users\59770\Desktop\cc\7.9\Project1\源.cpp(31,34): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.9\Project1\源.cpp(57,11): warning C4101: “column”: 未引用的局部变量
+C:\Users\59770\Desktop\cc\7.9\Project1\源.cpp(57,6): warning C4101: “row”: 未引用的局部变量
+C:\Users\59770\Desktop\cc\7.9\Project1\源.cpp(58,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\59770\Desktop\cc\7.9\Project1\源.cpp(58,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\59770\Desktop\cc\7.9\Project1\源.cpp(55,15): warning C4101: “field”: 未引用的局部变量
+C:\Users\59770\Desktop\cc\7.9\Project1\源.cpp(124,11): warning C4101: “column”: 未引用的局部变量
+C:\Users\59770\Desktop\cc\7.9\Project1\源.cpp(124,6): warning C4101: “row”: 未引用的局部变量
+C:\Users\59770\Desktop\cc\7.9\Project1\源.cpp(125,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\59770\Desktop\cc\7.9\Project1\源.cpp(125,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\59770\Desktop\cc\7.9\Project1\源.cpp(122,15): warning C4101: “field”: 未引用的局部变量
+C:\Users\59770\Desktop\cc\7.9\Project1\源.cpp(259,34): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.9\Project1\源.cpp(203,17): warning C4101: “ch”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\59770\Desktop\cc\7.9\Project1\x64\Debug\Project1.exe
