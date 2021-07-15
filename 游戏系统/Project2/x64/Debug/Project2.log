@@ -1,0 +1,55 @@
+﻿  game2.cpp
+  index.cpp
+C:\Users\59770\Desktop\游戏系统\Project2\game3.cpp(101,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game3.cpp(369,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game3.cpp(368,6): warning C4101: “k”: 未引用的局部变量
+C:\Users\59770\Desktop\游戏系统\Project2\game4.cpp(27,2): warning C4091: “static ”: 没有声明变量时忽略“Snake”的左侧
+C:\Users\59770\Desktop\游戏系统\Project2\game4.cpp(34,2): warning C4091: “static ”: 没有声明变量时忽略“Food”的左侧
+C:\Users\59770\Desktop\游戏系统\Project2\game5.cpp(81,6): warning C4101: “score”: 未引用的局部变量
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(28,2): warning C4091: “static ”: 没有声明变量时忽略“Ball”的左侧
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(38,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(73,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(74,40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(80,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(83,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(84,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(90,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(91,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(92,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(68,12): warning C4101: “j”: 未引用的局部变量
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(101,30): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(102,30): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(140,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(140,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(140,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(146,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(147,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(148,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(155,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(155,37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(155,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(160,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(161,40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(115,12): warning C4101: “j”: 未引用的局部变量
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(215,12): warning C4101: “j”: 未引用的局部变量
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(294,12): warning C4101: “j”: 未引用的局部变量
+C:\Users\59770\Desktop\游戏系统\Project2\game6.cpp(333,18): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(33,26): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(55,52): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(118,50): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(151,27): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(135,14): warning C4101: “tresult”: 未引用的局部变量
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(136,6): warning C4101: “t”: 未引用的局部变量
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(249,50): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+  正在生成代码...
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(107): warning C4715: “Game”: 不是所有的控件路径都返回值
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(173): warning C4715: “FindMYSQL”: 不是所有的控件路径都返回值
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(97): warning C4172: 返回局部变量或临时变量的地址: play
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(98): warning C4172: 返回局部变量或临时变量的地址: play
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(99): warning C4172: 返回局部变量或临时变量的地址: play
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(100): warning C4172: 返回局部变量或临时变量的地址: play
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(101): warning C4172: 返回局部变量或临时变量的地址: play
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(102): warning C4172: 返回局部变量或临时变量的地址: play
+C:\Users\59770\Desktop\游戏系统\Project2\index.cpp(104): warning C4172: 返回局部变量或临时变量的地址: play
+C:\Users\59770\Desktop\游戏系统\Project2\game1.cpp(291): warning C4715: “game_1_plane”: 不是所有的控件路径都返回值
+  Project2.vcxproj -> C:\Users\59770\Desktop\游戏系统\Project2\x64\Debug\Project2.exe

@@ -1,1 +1,19 @@
-﻿  Project1.vcxproj -> C:\Users\59770\Desktop\cc\7.12\Project1\Debug\Project1.exe
+﻿  6.cpp
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(51,61): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(52,62): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(59,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(60,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(68,29): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(69,29): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(118,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(118,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(118,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(124,65): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(125,66): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(131,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(131,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(131,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(217,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(218,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.12\Project1\6.cpp(350,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> C:\Users\59770\Desktop\cc\7.12\Project1\Debug\Project1.exe

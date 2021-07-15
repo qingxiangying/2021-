@@ -1,0 +1,28 @@
+﻿  1.cpp
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(38,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(73,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(74,40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(80,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(83,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(84,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(90,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(91,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(92,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(68,12): warning C4101: “j”: 未引用的局部变量
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(101,30): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(102,30): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(140,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(140,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(140,30): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(146,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(147,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(148,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(155,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(155,37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(155,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(160,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(161,40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(115,12): warning C4101: “j”: 未引用的局部变量
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(212,12): warning C4101: “j”: 未引用的局部变量
+C:\Users\59770\Desktop\cc\7.14\Project1\1.cpp(291,12): warning C4101: “j”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\59770\Desktop\cc\7.14\Project1\Debug\Project1.exe

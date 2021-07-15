@@ -33,9 +33,6 @@ void Gameinit()
 {
     //设置随机数种子
     srand((unsigned)time(NULL));
-    //播放背景音乐
-    //mciSendString("open BallGame.mp3 alias bk", 0, 0, 0);
-    //mciSendString("play bk repeat", 0, 0, 0);
     //初始化食物
     for (int i = 0; i < FOOD_NUM; i++)
     {
@@ -136,7 +133,6 @@ void Gamedraw()
     settextcolor(BLACK);
     setbkmode(TRANSPARENT);
     //settextstyle(20, 0, "楷体");
-    char pname[] = "微信公众号：C语言Plus";
     //int twidth = textwidth(pname) / 2;//计算文字宽度为了居中显示在玩家中央
     //outtextxy(mover.x - twidth, mover.y, pname);
     //恢复默认工作区，即窗口

@@ -3,6 +3,8 @@
 #include<conio.h>
 #include<math.h>
 #include <windows.h>
+#include<time.h>     //C语言时间头文件
+#include<mmsystem.h>//win32多媒体设备接口文件
 
 //棋盘，1为玩家白旗，2为黑旗
 int map[19][19]={0};
@@ -66,6 +68,7 @@ int updateWithUser(){
 
 //与用户无关的更新，电脑落子
 int updateWithoutUser(int px,int py){
+    srand((unsigned)time(NULL));
     int x,y;
     int k;
     while(1){
